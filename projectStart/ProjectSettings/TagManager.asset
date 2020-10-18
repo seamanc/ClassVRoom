@@ -9,6 +9,7 @@ TagManager:
   - TeleportIgnore
   - ExcludeTeleport
   - Board
+  - head
   layers:
   - Default
   - TransparentFX
