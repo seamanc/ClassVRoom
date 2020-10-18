@@ -9,6 +9,12 @@ EditorBuildSettings:
     path: Assets/Scenes/Launcher.unity
     guid: c4455e2bc409b5f49a89d17e3581b56c
   - enabled: 1
+    path: Assets/Scenes/Classroom.unity
+    guid: 8c42be85221d2b84db1af410105f2486
+  - enabled: 1
+    path: Assets/Scenes/Desert.unity
+    guid: 4f9868bdd4ac041cda280041fceb9163
+  - enabled: 1
     path: Assets/Scenes/Networking test room.unity
     guid: 0e9a843b9e18d53418e03c49c8206302
   m_configObjects: {}
