@@ -6,6 +6,9 @@ TagManager:
   tags:
   - righthand
   - lefthand
+  - TeleportIgnore
+  - ExcludeTeleport
+  - Board
   layers:
   - Default
   - TransparentFX
