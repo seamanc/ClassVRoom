@@ -70,6 +70,18 @@ public class Launcher : MonoBehaviourPunCallbacks
         world = "Classroom";
         Connect();
     }
+    public void connectDesert()
+    {
+        world = "Desert";
+        Connect();
+    }
+
+    public void connectwhiteboard()
+    {
+        world = "whiteboard room";
+        Connect();
+    }
+
 
     /// <summary>
     /// Start the connection process.
